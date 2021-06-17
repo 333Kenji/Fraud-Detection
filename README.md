@@ -13,7 +13,7 @@ One of the most widely used is the isolation forest algorithm which makes use of
 
 ### Data
 
-This dataset is taken from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) and contains 284807 rows of anonymized data represented by 31 numeric features including time, which I will drop as it is not required for this analysis, a binary target feature designated as 'Class', a feature representing dollar amount for each transaction. Rows with a value of 1, of which there are 492, represent fraud while 0 represents non-fraudulent transactions.
+This dataset is drawn from taken from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) and contains 170885 rows of anonymized data represented by 31 numeric features including time, which I will drop as it is not required for this analysis, a binary target feature designated as 'Class', a feature representing dollar amount for each transaction. Rows with a value of 1, of which there are 360, represent fraud while 0 represents non-fraudulent transactions.
 
 
 
